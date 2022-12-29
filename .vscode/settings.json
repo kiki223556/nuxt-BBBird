@@ -1,0 +1,6 @@
+{
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordWrap": "on",
+    "scss.lint.unknownAtRules": "ignore",
+    "files.associations": { "*.scss": "postcss" }
+}
